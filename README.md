@@ -1,4 +1,4 @@
-# Alipin Lyrics Python
+# Lyrics Alipin Python
 
 This is a simple Python program that displays the lyrics of "Alipin" with typing and pause effects.
 
