@@ -1,6 +1,6 @@
-# Lyrics Alipin Python
+# Lyrics Alipin Shamrock Python
 
-This is a simple Python program that displays the lyrics of "Alipin" with typing and pause effects.
+This is a simple Python program that displays the lyrics of "Alipin" by Shamrock with typing and pause effects.
 
 ## How to Run
 
